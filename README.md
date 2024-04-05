@@ -16,7 +16,7 @@ N/A
 
 ## Screenshot
 
-![Alt text](https://github.com/alextran1985/Horiseon-Website/blob/main/assets/images/Screenshot%202024-04-04 "Horiseon Screenshot")
+![Alt text](/Users/alextran/Desktop/Horiseon-Website/assets/images/Screenshot 2024-04-04 at 10.56.20 PM.png "Horiseon Screenshot")
 
 ## License
 
