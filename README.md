@@ -4,8 +4,11 @@ This is a Website for Horiseon that use standards accessibility codebase to opti
 
 ## Description
 
-Refactor Horiseon website 
-Using sematic HTML elements and accessible alt abbtribute for descriptive and concise title.
+Refactoring Horiseon website using sematic HTML elements and accessible alt abbtribute for descriptive and concise title.
+
+## Installation
+
+N/A
 
 ## Link
 
