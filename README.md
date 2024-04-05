@@ -16,7 +16,7 @@ N/A
 
 ## Screenshot
 
-![Alt text](assets/images/Screenshot 2024-04-04 at 10.56.20 PM.png "Horiseon Screenshot")
+![Alt text](/assets/images/Screenshot%202024-04-04%20at%2010.56.20 PM.png "Horiseon Screenshot")
 
 ## License
 
