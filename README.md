@@ -16,7 +16,7 @@ N/A
 
 ## Screenshot
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](https://github.com/alextran1985/Horiseon-Website/blob/main/assets/images/Screenshot%202024-04-04 "Horiseon Screenshot")
 
 ## License
 
