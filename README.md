@@ -9,7 +9,13 @@ Using sematic HTML elements and accessible alt abbtribute for descriptive and co
 
 ## Link
 
+[Link text](https://website-name.com)https://alextran1985.github.io/Horiseon-Website/
+
+## Screenshot
+
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+Please refer to the LICENSE in the repo.
 
